@@ -1,0 +1,13 @@
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.pdb
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csprojAssemblyReference.cache
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.exe
+C:\Users\BETEPAH\source\repos\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.pdb
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.pdb
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csprojAssemblyReference.cache
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csproj.CoreCompileInputs.cache
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.exe
+E:\КАФЕДРА МКиМТ\Алгоритмы и струтуры данных\OTUS\ConsoleTester-19350-fc2a9b\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.pdb
